@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366610223319",
+    "project_id": "wecon-b3107",
+    "storage_bucket": "wecon-b3107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366610223319:android:54deca30d35f3141896092",
+        "android_client_info": {
+          "package_name": "com.example.wecon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366610223319-2knphfhq77j5rukm2afusgvce3d0ime3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqL0W88VwS3dU2e6bngNMJDyGnfoIXaYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366610223319-2knphfhq77j5rukm2afusgvce3d0ime3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
